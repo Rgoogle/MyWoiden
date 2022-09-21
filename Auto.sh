@@ -1,6 +1,5 @@
 apt update
-apt install nohup
-
+apt install nohup&&apt install curl
 touch a
 touch b
 chmod 777 a
