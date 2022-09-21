@@ -1,5 +1,4 @@
-apt update
-apt install nohup&&apt install curl
+apt update&&apt install nohup&&apt install curl
 sleep 20
 touch a
 touch b
