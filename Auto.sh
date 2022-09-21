@@ -11,4 +11,4 @@ chmod 777 b
 sudo nohup wget -N https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh && bash install.sh <./a &
 sudo nohup wget -N https://raw.githubusercontent.com/fscarmen/warp/main/menu.sh && bash menu.sh < ./b &
 
-rm a b
+
