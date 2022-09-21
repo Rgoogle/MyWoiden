@@ -1,5 +1,6 @@
 apt update
 apt install nohup&&apt install curl
+sleep 20
 touch a
 touch b
 chmod 777 a
